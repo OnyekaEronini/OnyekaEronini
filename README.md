@@ -1,4 +1,4 @@
-<h1>Hi, I'm Onyeka, an <a href="https://linkedin.com/in/Josh">IT Professional
+<h1>Hi, I'm Onyeka, an <a href="https://linkedin.com/in/onyeka-eronini">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -14,4 +14,4 @@
 
 
 
-[linkedin]:(https://www.linkedin.com/in/onyeka-eronini-1268b469/)
+
